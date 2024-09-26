@@ -14,6 +14,4 @@
 
 ## Ejecución
 
-```bash
-mvn clean test
-```
+mvn  clean test -Dtest=PetsRunner
